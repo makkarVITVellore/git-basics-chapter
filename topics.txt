@@ -1,0 +1,7 @@
+The topics covered in this section are:
+
+1. Git repository
+2. git init and git status
+3. The hidden .git folder
+4. Common mistake
+5. Committing workflow
