@@ -5,3 +5,5 @@ The topics covered in this section are:
 3. The hidden .git folder
 4. Common mistake
 5. Committing workflow
+6. Staging changes with git add
+7. The git commit command

@@ -1,4 +1,8 @@
-A Git Repository is basically a workspace which tracks and manages files within a folder. Anytime we
+1. A Git Repository is basically a workspace which tracks and manages files within a folder. Anytime we
 want to use Git with a project, app,etc. we need to create a new Git repository. We can have as many
 repos on our machine as needed, all with separate histories and contents.
 
+2. Git status gives information on the current status of a git repository and its contents. 
+
+3. Use git init to create a new git repository. This is something you do once per project. Initialize
+the repo in the top-level folder containing your project.
