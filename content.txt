@@ -6,3 +6,25 @@ repos on our machine as needed, all with separate histories and contents.
 
 3. Use git init to create a new git repository. This is something you do once per project. Initialize
 the repo in the top-level folder containing your project.
+
+4. In our directory/git repository, we currently cannot see hidden folders. Actually git init command
+creates a .git folder(all hidden folders start from .). We can view this folder by doing ls -a.
+
+5. If we delete this .git folder (using rm -rf .git), our directory will no longer remain a git repository.
+We can check this by deleting .git folder and checking git status (don't forget to do git init again
+for that directory).
+
+6. Don't do git init inside a child directory of a directory which already has been initialized as a 
+git repo. This would mean that our git repository is tracking another git repository shouldn't be the 
+case.
+
+7. Before committing changes, we should logically group them. We can club a group of changes, and 
+bring them to a logical area called staging area. We can add our changes to the staging area using
+add command.
+
+8. Then we can commit these staged changes and we can give this commit a name using git commit - m "message name"
+command.
+
+9. To stage all changes at once we can use add . command.
+
+10. To track our commits, we can use git log command.
