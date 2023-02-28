@@ -8,3 +8,4 @@ The topics covered in this section are:
 6. Staging changes with git add
 7. The git commit command
 8. The git log command and more committing
+9. Git committing exercise
