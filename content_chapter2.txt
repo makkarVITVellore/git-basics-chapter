@@ -1,0 +1,9 @@
+1. Keep your commits atomic.
+2. Commit messages should either be in present imperative tense or past tense.
+3. To write longer commit messages we can us VS Code editor. Command to be used - git commit. 
+This will open VS Code only if we have configured git by implementing the following command:
+git config --global core.editor "code --wait".
+If we write long commit messages, then git log too will display these long messages. For that we can
+do 2 things:
+a. In our commit message we can first write a short heading followed by rest of the content.
+b. To see our commits, we can do git log --oneline instead of git log.
