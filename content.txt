@@ -1,6 +1,6 @@
 1. A Git Repository is basically a workspace which tracks and manages files within a folder. Anytime we
 want to use Git with a project, app,etc. we need to create a new Git repository. We can have as many
-repos on our machine as needed, all with separate histories and contents.
+repos on our machine as we want, all with separate histories and contents.
 
 2. Git status gives information on the current status of a git repository and its contents. 
 
@@ -11,8 +11,8 @@ the repo in the top-level folder containing your project.
 creates a .git folder(all hidden folders start from .). We can view this folder by doing ls -a.
 
 5. If we delete this .git folder (using rm -rf .git), our directory will no longer remain a git repository.
-We can check this by deleting .git folder and checking git status (don't forget to do git init again
-for that directory).
+We can check this by deleting the .git folder and checking git status (don't forget to do git init again
+for this directory).
 
 6. Don't do git init inside a child directory of a directory which already has been initialized as a 
 git repo. This would mean that our git repository is tracking another git repository shouldn't be the 
