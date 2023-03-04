@@ -1,4 +1,9 @@
-The topics covered in this section are:
+=======
+
+TOPICS
+
+=======
+The topics covered in this course are:
 
 1. Git repository
 2. git init and git status
