@@ -14,3 +14,6 @@ The topics covered in this course are:
 7. The git commit command
 8. The git log command and more committing
 9. Git committing exercise
+10.How to create and merge branches
+11.How to resolve merge conflicts
+12.Git diff
