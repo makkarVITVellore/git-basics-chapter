@@ -1,6 +1,0 @@
-===============
-
-GIT COURSE LINK
-
-===============
-https://www.udemy.com/course/git-and-github-bootcamp/
