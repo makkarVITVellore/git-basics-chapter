@@ -17,3 +17,5 @@ The topics covered in this course are:
 10.How to create and merge branches
 11.How to resolve merge conflicts
 12.Git diff
+13.Github - what it is and how to clone a git repo in local
+14.Git Push
